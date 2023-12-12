@@ -65,11 +65,11 @@ nav.navbar.awesomenav ul.nav li.active > a:hover,
 nav.navbar.awesomenav ul.nav li.active > a:focus,
 nav.navbar.awesomenav ul.nav li.active > a{
     /*background-color: transparent;*/
-	color: #ffcc00;
+	color: #a94442;
 }
 
 nav.navbar.awesomenav .navbar-toggle{
-    background-color: #ffcc00;
+    background-color: #a94442;
     border: none;
     padding: 5px 15px;
     font-size: 18px;

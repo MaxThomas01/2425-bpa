@@ -37,7 +37,7 @@ Primary use:	Morsel Restaurant - Onepage Html Responsive Template
 # [Color codes]
 
 # Black (text): #333
-# Yellow : #ffcc00
+# Yellow : #a94442
 
 ------------------------------------------------------------------*/
 
@@ -308,12 +308,12 @@ html,
 	}
 	
 body {
-	color:#898989;
+	color:#ebebeb;
   	font-family: 'Poppins', sans-serif;
 }
 
 a {
-	color: #ffcc00;
+	color: #a94442;
     -webkit-transition: all 500ms ease-in-out;
     -o-transition: all 500ms ease-in-out;
     -moz-transition: all 500ms ease-in-out;
@@ -327,7 +327,7 @@ a {
 }
 a:hover,
 a:focus {
-	color: #ffcc00;
+	color: #a94442;
 	outline: none;
 	outline-offset: 0px;
 	text-decoration:none !important;
@@ -358,10 +358,10 @@ p {
 	color:#898989;
 }
 .yellow{
-	color:#ffcc00;
+	color:#a94442;
 }
 .bg-yellow{
-	background-color:#ffcc00;
+	background-color:#a94442;
 }
 section{
 	padding:60px 0px;
@@ -402,7 +402,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
 
 .slide-1 p{
 	font-family: 'Allura', cursive;
-	color:#ffcc00;
+	color:#a94442;
 	left: 46% !important;
 	top: 34% !important;
 	font-size: 44px;
@@ -436,12 +436,12 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
     border: none;
     text-shadow: none;
 	top: 65% !important;
-	background-color: #ffcc00;
-	border: 1px solid #ffcc00;
+	background-color: #a94442;
+	border: 1px solid #a94442;
 	left: 46% !important;
 }
 .slide-1 h5.btn:hover {
-    color: #ffcc00;
+    color: #a94442;
 	background-color: transparent;
 	border: 1px solid #fff;
 }
@@ -449,7 +449,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
     color: #000;
 }
 .slide-1 h5.btn a:hover {
-    color: #ffcc00;
+    color: #a94442;
 }
 @media only screen and (max-width: 991px) {
 .slide-1 img.ms-layer{
@@ -495,7 +495,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
 }
 .flex-caption h1{
 	margin-bottom:30px;
-	color: #F6C500;
+	color: #ff0000;
 }
 
 	
@@ -510,7 +510,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
 }
 .heading span{
 	font-family: 'Allura', cursive;
-	color:#ffcc00;
+	color:#a94442;
 	line-height: 30px;
 }
 .heading h1{
@@ -547,7 +547,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
     padding: 0;
     margin: 0; 
     height: 96px;
-    border-bottom: 2px solid #ffcc00;
+    border-bottom: 2px solid #a94442;
 }
 .food-menu .food-court li {
     float: left;
@@ -568,7 +568,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
     padding: 12px 0;
     position: relative;    
     color: #fff;
-    background-color: #ffcc00;
+    background-color: #a94442;
 	border-top-left-radius: 50px;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 10px;
@@ -773,7 +773,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
     margin-top: 16%;
     padding: 10%;
     color: #fff;
-	border: 10px solid #ffcc00;
+	border: 10px solid #a94442;
 }
 .meal-details h3 {
     margin-top: 10px;
@@ -783,7 +783,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
     color: #ccc;
 }
 .meal-details .price{
-	color:#ffcc00 ;
+	color:#a94442 ;
 }
 .chaf-qut p {
     margin-bottom: 5px;
@@ -837,8 +837,8 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
 }
 .reservation-form .btn-default:hover, .reservation-form .btn-default:focus, .reservation-form .btn-default.focus, .reservation-form .btn-default:active, .reservation-form .btn-default.active, .open > .reservation-form .dropdown-toggle.btn-default {
 	color: #fff;
-	background-color: #ffcc00;
-	border-color: #ffcc00;
+	background-color: #a94442;
+	border-color: #a94442;
 }
 .reservation-form .form-inline {
 	text-align: center;
@@ -907,18 +907,18 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
 .conect-social li a {
     height: 35px;
     width: 35px;
-    background-color: #ffcc00;
+    background-color: #a94442;
     display: inline-block;
     border-radius: 100%;
     color: #fff;
-	border: 2px solid #ffcc00;
+	border: 2px solid #a94442;
 }
 .conect-social li a i {
     line-height: 35px;
 }
 .conect-social li a:hover {
     background-color: #fff;
-    color: #ffcc00;
+    color: #a94442;
 }
 
 /*---gallery---*/
@@ -1010,7 +1010,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
 	letter-spacing: 4px;
 }
 .event-content a:hover{
-	color: #ffcc00;
+	color: #a94442;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -1069,7 +1069,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
 	  border: none;
 }
 .testimonial #dart-quote-carousel.carousel .carousel-indicators .active{
-	  background-color: #ffcc00;
+	  background-color: #a94442;
 	  border: none;
 	  width:10px; 
 	  height:10px;
@@ -1167,7 +1167,7 @@ footer .social li a{
 	color: #ccc;
 }
 footer .social li a:hover{
-	color: #ffcc00;
+	color: #a94442;
 }
 .newsletter .form-group  {
     border: 1px solid #898989;
@@ -1184,14 +1184,14 @@ footer .social li a:hover{
     color: #fff;
 }
 .newsletter .form-group .btn:hover {
-    color: #ffcc00;
+    color: #a94442;
 }
 .newsletter {
     padding: 50px 80px;
 }
 .copy {
     text-align: center;
-    background-color: #ffcc00;
+    background-color: #a94442;
     color: #000;
     padding: 15px 0;
     margin-top: 60px;
@@ -1207,7 +1207,7 @@ footer .social li a:hover{
 }
 .contact-info p i {
     margin-right: 15px;
-	color: #ffcc00;
+	color: #a94442;
 }
 
 
