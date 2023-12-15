@@ -1,10 +1,64 @@
-/*------------------------------------------------------------------
-[Custom Template Stylesheet]
-
-Project:	Morsel Restaurant - Onepage Html Responsive Template
-Version:	1.1
-Primary use:	Morsel Restaurant - Onepage Html Responsive Template 
--------------------------------------------------------------------*/
-
 /*add your style css here*/
 
+.fix-mobile-scrolling{
+    overflow: initial;
+}
+
+.logoresize{
+    width: 8%;
+    margin-left: 100px;
+    margin-top: -5px;
+}
+
+/*.videobg{
+    width: 1920px;
+    height: 1084px;
+}
+
+#background-video{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+@media (max-width: 750px) {
+    #background-video { display: none; }
+    body {
+      background: url("https://lirp.cdn-website.com/acecb66d/dms3rep/multi/opt/dxqsYXW7RLK9clKTr0Yi_joined_video_c3f2773ea40e445b999cfefa718882c3.v2.0000000-1920w.jpg") no-repeat;
+      background-size: cover;
+      reso
+    }
+}
+
+#background-image{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: auto;
+}
+
+#slidertext{
+    text-align: center;
+    text-transform: capitalize;
+    z-index: -1;
+}*/
+
+#team-portrait{
+    image-resolution: from-image 280dpi;
+}
+
+#subtext{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black; 
+}

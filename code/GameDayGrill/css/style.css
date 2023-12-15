@@ -1,17 +1,8 @@
-/*------------------------------------------------------------------
-[Master Stylesheet]
-
-Project:	Morsel Restaurant - Onepage Html Responsive Template
-Version:	1.1
-Last change:	20/06/2017
-Primary use:	Morsel Restaurant - Onepage Html Responsive Template 
--------------------------------------------------------------------*/
-
 @import url("default-template-style.css");
 @import url("awesomenav.css");
 @import url("awesomenav-style.css");
 @import url("awesomenav-animate.css");
-@import url('https://fonts.googleapis.com/css?family=Allura|Poppins:300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
 
 /*------------------------------------------------------------------
 [Table of contents]
@@ -308,8 +299,8 @@ html,
 	}
 	
 body {
-	color:#ebebeb;
-  	font-family: 'Poppins', sans-serif;
+	color:#353535;
+  	font-family: 'Fjalla One', sans-serif;
 }
 
 a {
@@ -339,7 +330,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Fjalla One', sans-serif;
 	color:#333;
 }
 
@@ -370,11 +361,14 @@ section{
 	background-color:#f7f7f7;
 }
 
+.img-shadow{
+    filter: drop-shadow(rgb(43, 0, 0) 1rem 3rem 60px);
+}
 
 /*--- Nav ---*/
 @media (max-width: 992px){
 nav.navbar.awesomenav.navbar-fixed .logo-scrolled {
-    max-width: 70px;
+    max-width: 100%;
 }
 }
 @media (min-width: 992px){
@@ -431,7 +425,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
     font-weight: 300;
     padding: 10px 20px !important;
     text-align: left;
-    width: auto; 
+    width: auto;
     font-size: 18px;
     border: none;
     text-shadow: none;
@@ -964,6 +958,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
 .gallery-box img.img-responsive{
 	display:inline-block;
 	width:100%;
+    border: 5px solid #555;
 }
 
 
@@ -1134,7 +1129,7 @@ blockquote {
 
 /*---footer---*/
 footer {
-	padding: 60px 0px 0px;
+	padding: 30px 0px 0px;
     background-image: -webkit-linear-gradient(left, #000, #111, #000 50%, #111 50%, #000, #111);
     background-image: -moz-linear-gradient(left, #000, #111, #000 50%, #111 50%, #000, #111);
     background-image: -o-linear-gradient(left, #000, #111, #000 50%, #111 50%, #000, #111);
@@ -1143,6 +1138,7 @@ footer {
 }
 footer .footer-logo img{
 	display: inline-block;
+    width: 125px;
 }
 footer .footer-logo{
 	text-align: center;

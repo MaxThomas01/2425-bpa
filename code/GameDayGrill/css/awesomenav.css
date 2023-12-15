@@ -1,12 +1,3 @@
-/*------------------------------------------------------------------
-[Nav Stylesheet]
-
-Project:	Morsel Restaurant - Onepage Html Responsive Template
-Version:	1.1
-Last change:	20/06/2017
-Primary use:	Morsel Restaurant - Onepage Html Responsive Template 
--------------------------------------------------------------------*/
-
 /*Nav style css here*/
 
 
@@ -533,7 +524,7 @@ body.on-side .wrap-sticky nav.navbar.awesomenav.sticked{
     }
     
     nav.navbar.awesomenav ul.nav > li.dropdown > a.dropdown-toggle:after{
-        font-family: 'FontAwesome';
+        font-family: 'Fjalla One'';
         content: "\f0d7";
         margin-left: 5px;
         margin-top: 2px;
@@ -575,14 +566,14 @@ body.on-side .wrap-sticky nav.navbar.awesomenav.sticked{
     }
     
     nav.navbar.awesomenav li.dropdown ul.dropdown-menu li.dropdown > a.dropdown-toggle:before{
-        font-family: 'FontAwesome';
+        font-family: 'Fjalla One'';
         float: right;
         content: "\f105";
         margin-top: 0;
     }
     
     nav.navbar.awesomenav ul.navbar-right li.dropdown ul.dropdown-menu li.dropdown > a.dropdown-toggle:before{
-        font-family: 'FontAwesome';
+        font-family: 'Fjalla One'';
         float: right;
         content: "\f105";
         margin-top: 0;
@@ -938,7 +929,7 @@ body.on-side .wrap-sticky nav.navbar.awesomenav.sticked{
     }
     
     nav.awesomenav.navbar-sidebar ul.nav li.dropdown ul.dropdown-menu li.dropdown > a:before{
-        font-family: 'FontAwesome';
+        font-family: 'Fjalla One'';
         content: "\f105";
         float: right;
     }
@@ -970,7 +961,7 @@ body.on-side .wrap-sticky nav.navbar.awesomenav.sticked{
     }
     
     nav.awesomenav.navbar-sidebar .dropdown .megamenu-content .col-menu .title:before{
-        font-family: 'FontAwesome';
+        font-family: 'Fjalla One'';
         content: "\f105";
         float: right;
     }
@@ -1046,7 +1037,7 @@ body.on-side .wrap-sticky nav.navbar.awesomenav.sticked{
     }
     
     nav.navbar.awesomenav li.dropdown a.dropdown-toggle:before{
-        font-family: 'FontAwesome';
+        font-family: 'Fjalla One'';
         content: "\f105";
         float: right;
         font-size: 16px;
@@ -1150,7 +1141,7 @@ body.on-side .wrap-sticky nav.navbar.awesomenav.sticked{
     }
     
    nav.navbar.awesomenav .dropdown .megamenu-content .col-menu .title:before{
-        font-family: 'FontAwesome';
+        font-family: 'Fjalla One'';
         content: "\f105";
         float: right;
         font-size: 16px;
