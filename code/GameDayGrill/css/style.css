@@ -1,7 +1,17 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	Morsel Restaurant - Onepage Html Responsive Template
+Version:	1.1
+Last change:	20/06/2017
+Primary use:	Morsel Restaurant - Onepage Html Responsive Template 
+-------------------------------------------------------------------*/
+
 @import url("default-template-style.css");
-@import url("stylesheet.css");
-@import url("../fonts/FjallaOne.ttf");
-@import url('https://fonts.google.com/specimen/Fjalla+One');
+@import url("awesomenav.css");
+@import url("awesomenav-style.css");
+@import url("awesomenav-animate.css");
+@import url('https://fonts.googleapis.com/css?family=Allura|Poppins:300,400,500,600,700');
 
 /*------------------------------------------------------------------
 [Table of contents]
@@ -299,7 +309,8 @@ html,
 	
 body {
 	color:#ebebeb;
-  	font-family: 'fjallaone-regular'}
+  	font-family: 'Poppins', sans-serif;
+}
 
 a {
 	color: #a94442;
@@ -328,7 +339,8 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'fjallaone-regular'	color:#333;
+	font-family: 'Poppins', sans-serif;
+	color:#333;
 }
 
 p {
@@ -389,10 +401,11 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
 /*---slider---*/
 
 .slide-1 p{
-	font-family: 'fjallaone-regular'	color:#a94442;
+	font-family: 'Allura', cursive;
+	color:#a94442;
 	left: 46% !important;
 	top: 34% !important;
-	font-size: 42px;
+	font-size: 44px;
 }
 .slide-1 h3.bigtext {
 	font-weight: 400;
@@ -488,7 +501,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
 	
 /*---about---*/
 .background{
-	background-image: url(../images/background.png);
+	background-image: url(../images/bg-1.jpg);
 	background-size: cover;
 	background-position: top center;
 }
@@ -496,7 +509,8 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
 	text-align: center;
 }
 .heading span{
-	font-family: 'fjallaone-regular'	color:#a94442;
+	font-family: 'Allura', cursive;
+	color:#a94442;
 	line-height: 30px;
 }
 .heading h1{
@@ -919,7 +933,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
 		text-align:center;
 }
 .gallery-box .gallery-box-caption {
-	background-color: rgba(255, 140, 0, 0.9);
+	background-color: rgba(255,204,0,0.9);
 		color: #000;
 		opacity: 0;
 	display: block;
