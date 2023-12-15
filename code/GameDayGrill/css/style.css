@@ -3,6 +3,7 @@
 @import url("awesomenav-style.css");
 @import url("awesomenav-animate.css");
 @import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+@import url('https://fonts.googleapis.com/css?family=Sriracha');
 
 /*------------------------------------------------------------------
 [Table of contents]
@@ -395,7 +396,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
 /*---slider---*/
 
 .slide-1 p{
-	font-family: 'Allura', cursive;
+	font-family: 'Sriracha';
 	color:#a94442;
 	left: 46% !important;
 	top: 34% !important;
@@ -503,7 +504,7 @@ nav.navbar.navbar-inverse.awesomenav.navbar-transparent.dark .attr-nav, nav.navb
 	text-align: center;
 }
 .heading span{
-	font-family: 'Allura', cursive;
+	font-family: 'Sriracha';
 	color:#a94442;
 	line-height: 30px;
 }
