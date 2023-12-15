@@ -46,13 +46,14 @@
     top: 0;
     bottom: 0;
     z-index: auto;
-}
+}*/
 
 #slidertext{
     text-align: center;
     text-transform: capitalize;
     z-index: -1;
-}*/
+    position: fixed;
+}
 
 #team-portrait{
     image-resolution: from-image 280dpi;
@@ -61,4 +62,9 @@
 #subtext{
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black; 
+}
+
+.video-container{
+    overflow: hidden;
+    position: fixed;
 }
